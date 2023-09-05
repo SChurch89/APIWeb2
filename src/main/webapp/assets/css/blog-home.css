@@ -1,0 +1,10 @@
+
+body {
+  padding-top: 56px;
+}
+img{
+	max-height: 300px;
+}
+.avatar{
+	max-height: 50px;
+}
